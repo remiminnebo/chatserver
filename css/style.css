@@ -1,0 +1,43 @@
+@font-face {
+    font-family: ProximaNovaSoft;
+    src: url("ProximaNovaSoft.otf") format("opentype");
+}
+@font-face {
+	font-family: ProximaNovaSoft;
+	font-weight: bold;
+	src: url("ProximaNovaSoft-Bold.otf") format("opentype");
+}
+
+body {
+	background-color: #1D203B;
+	font-family: ProximaNovaSoft, sans-serif;
+	color: white;
+
+}
+
+#nav h1{
+	font-family: ProximaNovaSoft, sans-serif !important;
+	font-size: 46px !important;
+}
+
+#nav h2{
+	color:#505687 !important;
+	font-size: 20px !important;
+}
+
+
+#nav {
+	font-family: ProximaNovaSoft, sans-serif;
+	font-weight: bold;
+}
+
+#friends{
+	background-color: #232748;
+	border-radius: 5px;
+	
+}
+
+#chat{
+	background-color: #232748;
+	border-radius: 5px;
+}
